@@ -29,7 +29,7 @@ Once all libraries is been selected, click on apply and close, A new file name
 libraries which have been selected.
 ```
 
-#### After the above steps has been successfully been done we may proceed with the remaining procedures.
+### After the above steps has been successfully been done we may proceed with the remaining procedures.
 
 ##### Creation of a new package.
  ```sh 
